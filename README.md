@@ -31,17 +31,3 @@ This is my final project for the React course: a **Portfolio Website**. It showc
 - **Font Awesome**: Icon library.
 - **React Scripts**: For build and development tools.
 
----
-
-## Installation and Usage
-
-### Prerequisites
-Make sure you have the following installed:
-- Node.js (v14 or above)
-- npm (v6 or above)
-
-### Setup
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/maicol240/react-course-portfolio.git
-   cd react-course-portfolio
